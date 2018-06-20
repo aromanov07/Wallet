@@ -16,7 +16,7 @@ type P = {
 const Radio = ({ title, option1, option2, discription1, discription2 }: P) => (
 
   <View style={{
-    marginBottom: designSystem.space.xs,
+    marginBottom: 0,
     marginTop: 16,
   }}>
 

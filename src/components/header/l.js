@@ -3,8 +3,6 @@ import React from 'react';
 import { View, Text } from 'react-sketchapp';
 import designSystem, { spacing } from '../../designSystem';
 import type { DesignSystem } from '../../designSystem';
-import Input from '../elements/form/input';
-import RegularButton from '../elements/form/regularButton';
 
 // Component design
 type P = {
